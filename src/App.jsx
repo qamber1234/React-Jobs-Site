@@ -56,7 +56,7 @@ const App = () => {
       </Route>
     )
   );
-  const msg = "meri zindagi ha tu";
+  const msg = "Build Future with React";
   const poets = ["mir", "ghalib", "nasir", "faraz"];
 
   return <RouterProvider router={router} />;
